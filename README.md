@@ -22,3 +22,5 @@ VSCODEでソースファイルを開き、RunCode（Ctrl+Alt+N）で実行する
 ## 3.ゲーム終了<br>
 + 全70問を回答する、もしくはタイマーが0：00になるとゲーム終了<br>
 + 時間切れの時はダイアログ表示される<br>
+## 4.ゲーム中断
++ Quitボタンを押すかVSCODEのStopCodeRun(Ctrl+Alt+M)を押す<br>
